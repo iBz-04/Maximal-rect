@@ -1,5 +1,3 @@
-//iBz
-
 Problem Description
 Given a binary matrix (matrix), find the area of the largest rectangle formed by 1s. The matrix consists of '0's and '1's.
 
